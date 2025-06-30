@@ -12,4 +12,4 @@ html_static_path = ['_static']
 html_js_files = [
     'chatbot.js',
 ]
-html_favicon = '_static/pc-matic.png'
+html_favicon = 'pc-matic.png'
