@@ -1,6 +1,10 @@
-===========================
+
 How to Contact PC Matic Support?
 ===========================
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
 
 PC Matic is a well-known cybersecurity software that provides a wide range of solutions for both personal and business users. The software offers services such as malware protection, system optimization, and ransomware defense. As with any software, users may encounter issues or have questions that need to be addressed. In such situations, it's crucial to know how to contact PC Matic's support team to resolve the issue quickly.
 
