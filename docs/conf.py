@@ -13,5 +13,3 @@ html_js_files = [
     'chatbot.js',
 ]
 html_favicon = '_static/pc-matic.png'
-
-conf.py
